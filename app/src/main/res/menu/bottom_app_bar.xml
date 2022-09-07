@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/notes"
+        android:icon="@drawable/document_textnotes"
+        android:title="@string/home"
+        android:contentDescription="@string/home_desc"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/calender"
+        android:icon="@drawable/calendarcalender"
+        android:title="@string/calender"
+        android:contentDescription="@string/calender_desc"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/placeholder"
+        android:title=""
+        android:enabled="false"/>
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/search_normalsearch"
+        android:title="@string/search"
+        android:contentDescription="@string/search_desc"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/hamburger"
+        android:icon="@drawable/menuhamburger"
+        android:title="@string/menu"
+        android:contentDescription="@string/menu_desc"
+        app:showAsAction="always"/>
+</menu>

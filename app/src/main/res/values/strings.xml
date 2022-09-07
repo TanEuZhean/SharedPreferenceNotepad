@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NoteClone</string>
+    <string name="home">home</string>
+    <string name="home_desc">Home Page</string>
+    <string name="calender">calender</string>
+    <string name="calender_desc">calender icon</string>
+    <string name="search">search</string>
+    <string name="search_desc">search icon</string>
+    <string name="menu">menu</string>
+    <string name="menu_desc">menu icon</string>
+    <string name="color">color</string>
+    <string name="more_desc">more desc</string>
+    <string name="more">more</string>
+    <string name="FAB_Home_Desc">Add Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
